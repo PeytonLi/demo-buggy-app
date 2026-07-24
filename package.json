@@ -10,7 +10,7 @@
     "test:ci": "node scripts/ci-check.js"
   },
   "dependencies": {
-    "@sentry/nextjs": "^10",
+    "@sentry/nextjs": "10",
     "next": "^16",
     "react": "^19",
     "react-dom": "^19"
